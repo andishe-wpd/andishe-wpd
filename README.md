@@ -1,0 +1,1 @@
+- I'm an intense curious wordpress learner and a peacefull ambient music meditator.
