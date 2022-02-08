@@ -1,1 +1,1 @@
-- I'm an intense curious wordpress learner and a peacefull ambient music meditator.
+- I started my career with WordPress, after HTML and CSS, when I got deeper I got acquainted with PHP and MySQL and now coding in JavaScript is very interesting to me and I am spreading my ideas on React.
